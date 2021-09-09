@@ -1,2 +1,2 @@
 # site-turismo
-Site com dicas sobre Americana
+Site com dicas sobre SBO
